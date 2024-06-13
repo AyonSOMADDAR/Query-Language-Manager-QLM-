@@ -73,4 +73,4 @@ streamlit run main.py
 Developed by Ayon
 
 ---
-This guide outlines the steps necessary to install, configure, and run the Query Language Manager (QLM) application effectively, developed by Ayon. Adjust paths and configurations according to your specific setup and requirements.
+This guide outlines the steps necessary to install, configure, and run the Query Language Manager (QLM) application effectively, developed by Ayon. Adjust paths and configurations according to your specific setup and requirements. Check blog at https://www.linkedin.com/pulse/streamlining-sql-query-generation-ai-deep-dive-manager-ayon-somaddar-hxfzc/ 
