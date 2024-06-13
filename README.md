@@ -65,7 +65,7 @@ Inside the code add your username and password.
 
 Start the QLM application using Streamlit. Run the following command in the terminal:
 ```bash
-streamlit run main.py
+streamlit run LLM.py
 ```
 
 ---
