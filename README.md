@@ -57,6 +57,7 @@ Replace `your_google_api_key` with your actual Google API key. This key is neces
 ### Database Configuration
 
 Ensure you have a MySQL database set up where QLM will execute SQL queries. Make note of the database host, username, password, and database name.
+Inside the code add your username and password. 
 
 ## 3. Running the Application
 
