@@ -152,7 +152,7 @@ def main():
         
         with st.sidebar:
             
-            st.write("*`Developed by Ayon and Saksham`*")
+            st.write("*`Developed by Ayon`*")
     
 if __name__ == "__main__":
     main()
