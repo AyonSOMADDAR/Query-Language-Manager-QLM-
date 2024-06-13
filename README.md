@@ -31,7 +31,7 @@ Certainly! Here's the usage guide for the Query Language Manager (QLM) in Markdo
 
 Clone the QLM repository from GitHub using the command:
 ```bash
-git clone <repository-url>
+git clone https://github.com/AyonSOMADDAR/Query-Language-Manager-QLM-.git
 cd <repository-folder>
 ```
 Replace `<repository-url>` with the actual URL of your QLM repository and `<repository-folder>` with the folder name where you want to clone it.
